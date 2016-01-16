@@ -13,5 +13,8 @@ module.exports = {
   },
   ok: function(s) {
     log(String(s).green.bold);
+  },
+  depreceated: function(s) {
+    log(String(s).grey.bold);
   }
 }
