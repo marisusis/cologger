@@ -1,0 +1,30 @@
+{
+  "name": "cologger",
+  "version": "0.0.1",
+  "description": "A color logger for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/spacegeek224/cologger"
+  },
+  "keywords": [
+    "color",
+    "cologger",
+    "log",
+    "logger",
+    "color",
+    "logger"
+  ],
+  "author": "Maris Usis <marisusisme@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spacegeek224/cologger/issues"
+  },
+  "homepage": "https://github.com/spacegeek224/cologger",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
